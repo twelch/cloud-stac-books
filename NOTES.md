@@ -1,0 +1,2 @@
+* Fiona reading files from URL - https://geopandas.org/en/stable/docs/user_guide/io.html
+* [STAC UI](https://www.youtube.com/watch?v=xGE3YaGXHn8&list=PLQsQNjNIDU87yUFyKy1seaiRps389RPwk&index=21)- Explore stac catalog visually within notebook
